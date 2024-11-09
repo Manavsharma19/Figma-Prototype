@@ -1,2 +1,2 @@
 # Figma-CryptoStock-Prototype
-First Protoype that I have Created using Figma
+Created Design prototype for a mobile app using Figma which were later used in the development.
